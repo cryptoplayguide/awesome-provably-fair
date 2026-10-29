@@ -53,6 +53,7 @@ Maintained by [Betkyo Research](https://github.com/betkyo-open-labs). Entries we
 
 - [provably-fair-verifier](https://github.com/betkyo-open-labs/provably-fair-verifier) *(maintainer)* - Zero-dependency Node CLI and library: HMAC-SHA256 cursor streams, single-rounding byte-to-float, several game mappings. MIT.
 - [Provably Fair Round Verifier](https://huggingface.co/spaces/Betkyo/provably-fair-verifier) *(maintainer)* - The same computation in a static web page using Web Crypto; nothing leaves the browser.
+- [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) - Browser verifier for HMAC-SHA256 seed outcomes in Dice, Limbo, Crash, Mines and Plinko (Plinko checks only the drop path, not multipliers). MIT.
 - [GitHub topic: provably-fair](https://github.com/topics/provably-fair) - Community implementations to compare against.
 
 ## Data and maths of the house edge
